@@ -16,4 +16,4 @@ I myself is an avid fan of IPL cricket and the sport. So I decided to try my han
 
 3) Model Building using ML - Using ML/Dl Algorithms.
 
-4) Model Building using Auto ML.
+4) Model Building using Auto ML. 
